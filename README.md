@@ -1,3 +1,4 @@
+# LINK FOR VIDEO https://drive.google.com/file/d/1iOPEwWSkU3bYweyaxSXm0dBpcWmGLzHG/view?usp=sharing
 # Game for final project programming language
 # Aizhigit Taalaibek uul and Nursultan Sagynbaev
 # The game was written on python using pygame library
