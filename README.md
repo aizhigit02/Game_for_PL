@@ -4,7 +4,7 @@
  ![](https://raw.githubusercontent.com/aizhigit02/Game_for_PL/main/images/1.PNG)
 # So player has his own health and also he did not have miss the enemy ships
 # if there will be more than 4 missed ships the game is over
-# every enemy wave will be increased by 5 ships which are shooting randomly in 2 seconds
+# Every enemy wave will be increased by 5 ships which are shooting randomly in 2 seconds
 ![](https://raw.githubusercontent.com/aizhigit02/Game_for_PL/main/images/2.PNG)
-# the game can cobtinue to infinity 
+# The game can continue to infinity 
 # Also the cicle will stop when the player will lose more than 180 times))
